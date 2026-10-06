@@ -1,0 +1,754 @@
+[
+  {
+    "path": "/",
+    "meta": {
+      "title": "Elektriker Stockholm – eljour, installation & service",
+      "description": "Elektriker i Stockholm med snabb och trygg service dygnet runt. Vi erbjuder elinstallationer, eljour och luftvärmepumpar för hem och företag.",
+      "canonical": "https://primarelservice.se/elektriker-stockholm/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "HomeHero",
+      "ServicesOverview",
+      "EmergencySection",
+      "PropertySection",
+      "ProjectsPreview",
+      "AboutSection",
+      "ReviewsSection",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/cookie-policy/",
+    "meta": {
+      "title": "Cookie Policy - Primär El-service",
+      "description": "Elinstallationer, service och eljour för privatpersoner, företag och BRF:er i Stockholm. Kontakta Primär El-Service i Solna.",
+      "canonical": "https://primarelservice.se/cookie-policy/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": ["CookiePolicySection1"]
+  },
+  {
+    "path": "/dataskyddspolicy/",
+    "meta": {
+      "title": "Dataskyddspolicy - Primär El-service",
+      "description": "Elinstallationer, service och eljour för privatpersoner, företag och BRF:er i Stockholm. Kontakta Primär El-Service i Solna.",
+      "canonical": "https://primarelservice.se/dataskyddspolicy/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": ["DataskyddspolicySection1"]
+  },
+  {
+    "path": "/elektriker-bromma/",
+    "meta": {
+      "title": "Elektriker Bromma - snabb eljour & elinstallationer",
+      "description": "Elektriker i Bromma med snabb eljour, elinstallationer, felsökning och installation av luftvärmepumpar. Kostnadsfri offert och personlig service.",
+      "canonical": "https://primarelservice.se/elektriker-bromma/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerBrommaSection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-i-jarfalla/",
+    "meta": {
+      "title": "Elektriker i Järfälla - elinstallation & eljour dygnet runt",
+      "description": "Elektriker i Järfälla med snabb eljour, elinstallationer och service för privatpersoner och företag. Erfarna elektriker med fokus på kvalitet och trygghet.",
+      "canonical": "https://primarelservice.se/elektriker-i-jarfalla/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerIJarfallaSection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-nacka/",
+    "meta": {
+      "title": "Elektriker Nacka - säkra elinstallationer & jour dygnet runt",
+      "description": "Behöver du en elektriker i Nacka? Vi fixar elinstallationer, felsökning, laddboxar och luftvärmepumpar samt erbjuder eljour dygnet runt.",
+      "canonical": "https://primarelservice.se/elektriker-nacka/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerNackaSection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-sodermalm/",
+    "meta": {
+      "title": "Elektriker Södermalm - elinstallation & eljour dygnet runt",
+      "description": "Letar du elektriker på Södermalm? Primär El-Service erbjuder elinstallationer, eljour dygnet runt samt installation av luftvärmepumpar.",
+      "canonical": "https://primarelservice.se/elektriker-sodermalm/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerSodermalmSection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-sollentuna/",
+    "meta": {
+      "title": "Elektriker Sollentuna - professionella eltjänster för alla",
+      "description": "Erfarna elektriker i Sollentuna för elinstallationer, eljour och service. Vi hjälper privatpersoner, företag och BRF med trygga eltjänster.",
+      "canonical": "https://primarelservice.se/elektriker-sollentuna/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerSollentunaSection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-solna/",
+    "meta": {
+      "title": "Elektriker Solna – felsökning, eljour & installationer",
+      "description": "Elektriker i Solna som hjälper dig med elinstallationer, eljour dygnet runt, felsökning, serviceavtal och installation av luftvärmepumpar.",
+      "canonical": "https://primarelservice.se/elektriker-solna/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerSolnaSection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-stockholm/",
+    "meta": {
+      "title": "Elektriker Stockholm – eljour, installation & service",
+      "description": "Elektriker i Stockholm med snabb och trygg service dygnet runt. Vi erbjuder elinstallationer, eljour och luftvärmepumpar för hem och företag.",
+      "canonical": "https://primarelservice.se/elektriker-stockholm/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "HomeHero",
+      "ServicesOverview",
+      "EmergencySection",
+      "PropertySection",
+      "ProjectsPreview",
+      "AboutSection",
+      "ReviewsSection",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-sundbyberg/",
+    "meta": {
+      "title": "Elektriker Sundbyberg – Primär El-service i Stockholm",
+      "description": "Elektriker Sundbyberg hos Primär El-service. Kontakta oss för kostnadsfri offert på ditt elarbete. Vi finns i hela Stockholm.",
+      "canonical": "https://primarelservice.se/elektriker-sundbyberg/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerSundbybergSection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elektriker-taby/",
+    "meta": {
+      "title": "Elektriker Täby - installation, felsökning & eljour",
+      "description": "Elektriker i Täby med bred kompetens för elinstallationer, underhåll och jour. Vi hjälper dig snabbt och säkert med både små och stora elarbeten.",
+      "canonical": "https://primarelservice.se/elektriker-taby/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElektrikerTabySection1",
+      "ElektrikerBrommaSection2",
+      "EmergencySection",
+      "ServicesOverview",
+      "ServiceAreas",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/elinstallationer-stockholm/",
+    "meta": {
+      "title": "Elinstallation Stockholm – elektriker för hem och företag",
+      "description": "Behöver du hjälp med elinstallation i Stockholm? Våra behöriga elektriker erbjuder serviceavtal och jour dygnet runt. Få gratis offert i dag!",
+      "canonical": "https://primarelservice.se/elinstallationer-stockholm/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ElinstallationerStockholmSection1",
+      "ElinstallationerStockholmSection2",
+      "PropertySection",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/eljour-stockholm/",
+    "meta": {
+      "title": "Eljour Stockholm – Primär El-service i Stockholm",
+      "description": "Eljour Stockholm hos Primär El-service. Kontakta oss för kostnadsfri offert på ditt elarbete. Vi finns i hela Stockholm.",
+      "canonical": "https://primarelservice.se/eljour-stockholm/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "EljourStockholmSection1",
+      "EljourStockholmSection2",
+      "EmergencySection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/installera-fiber/",
+    "meta": {
+      "title": "Installera fiber - stabil och säker installation",
+      "description": "Installera fiber med Primär El-Service - vi erbjuder säker, snabb och snygg fiberinstallation för hem och företag med erfarna elektriker.",
+      "canonical": "https://primarelservice.se/installera-fiber/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "InstalleraFiberSection1",
+      "InstalleraFiberSection2",
+      "ContactSection"
+    ]
+  },
+  {
+    "path": "/kontakt/",
+    "meta": {
+      "title": "Kontakt - Primär El-service",
+      "description": "Elinstallationer, service och eljour för privatpersoner, företag och BRF:er i Stockholm. Kontakta Primär El-Service i Solna.",
+      "canonical": "https://primarelservice.se/kontakt/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "KontaktSection1",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/luftvarmepumpar/",
+    "meta": {
+      "title": "Luftvärmepumpar Stockholm – Primär El-service",
+      "description": "Luftvärmepumpar Stockholm hos Primär El-service. Kontakta oss för kostnadsfri offert på ditt elarbete. Vi finns i hela Stockholm.",
+      "canonical": "https://primarelservice.se/luftvarmepumpar-stockholm/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "LuftvarmepumparSection1",
+      "LuftvarmepumparSection2",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/luftvarmepumpar-stockholm/",
+    "meta": {
+      "title": "Luftvärmepumpar Stockholm – Primär El-service",
+      "description": "Luftvärmepumpar Stockholm hos Primär El-service. Kontakta oss för kostnadsfri offert på ditt elarbete. Vi finns i hela Stockholm.",
+      "canonical": "https://primarelservice.se/luftvarmepumpar-stockholm/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "LuftvarmepumparSection1",
+      "LuftvarmepumparSection2",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/om-oss/",
+    "meta": {
+      "title": "Om oss - Primär El-service",
+      "description": "Elinstallationer, service och eljour för privatpersoner, företag och BRF:er i Stockholm. Kontakta Primär El-Service i Solna.",
+      "canonical": "https://primarelservice.se/om-oss/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "OmOssSection1",
+      "AboutSection",
+      "ProjectsPreview",
+      "ContactSection"
+    ]
+  },
+  {
+    "path": "/referenser/",
+    "meta": {
+      "title": "Referenser - Primär El-service",
+      "description": "Elinstallationer, service och eljour för privatpersoner, företag och BRF:er i Stockholm. Kontakta Primär El-Service i Solna.",
+      "canonical": "https://primarelservice.se/referenser/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": ["ReferenserSection1", "ReferenserSection2", "ContactSection"]
+  },
+  {
+    "path": "/serviceavtal/",
+    "meta": {
+      "title": "Serviceavtal för BRF & företag – Primär El-Service",
+      "description": "Elinstallationer, service och eljour för privatpersoner, företag och BRF:er i Stockholm. Kontakta Primär El-Service i Solna.",
+      "canonical": "https://primarelservice.se/serviceavtal/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": [
+      "ServiceavtalSection1",
+      "ServiceavtalSection2",
+      "ServiceavtalSection3",
+      "ContactSection",
+      "FrequentlyAskedQuestions"
+    ]
+  },
+  {
+    "path": "/tack/",
+    "meta": {
+      "title": "Primär El-Service – elektriker i Stockholm",
+      "description": "Elinstallationer, service och eljour för privatpersoner, företag och BRF:er i Stockholm. Kontakta Primär El-Service i Solna.",
+      "canonical": "https://primarelservice.se/tack/",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Electrician",
+          "name": "Primär El-Service AB",
+          "url": "https://primarelservice.se",
+          "telephone": "+46840020108",
+          "email": "info@primarelservice.se",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Förvaltarvägen 5",
+            "postalCode": "169 68",
+            "addressLocality": "Solna",
+            "addressCountry": "SE"
+          },
+          "areaServed": "Stockholm",
+          "image": "https://primarelservice.se/wp-content/uploads/2021/09/primar-elservice-logo.png"
+        }
+      ]
+    },
+    "sections": ["TackSection1"]
+  },
+  {
+    "path": "/404/",
+    "meta": {
+      "title": "Sidan finns inte – Primär El-Service",
+      "description": "",
+      "canonical": "",
+      "schema": []
+    },
+    "sections": ["NotFoundSection", "NotFoundSection2", "NotFoundSection3"]
+  }
+]
