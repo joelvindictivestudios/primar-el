@@ -1819,6 +1819,51 @@ footer button:focus-visible,
 .topbar a:focus-visible {
   outline-color: #b6e2ff;
 }
+.topbar-phone {
+  margin-left: auto;
+}
+.topbar-social {
+  display: flex;
+  flex: 0 0 auto;
+  margin-right: -8px;
+}
+.topbar-social a {
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  transition: color 0.2s ease;
+}
+.topbar-social a:hover {
+  color: var(--accent);
+}
+.topbar-social svg {
+  width: 14px;
+  height: 14px;
+}
+.topbar-social a:focus-visible {
+  outline-offset: 2px;
+}
+.sheet-social {
+  display: flex;
+  margin: 6px 0 0 -13px;
+}
+.sheet-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  color: #fff;
+}
+.sheet-social svg {
+  width: 18px;
+  height: 18px;
+}
+@media (max-width: 900px) {
+  .topbar-social {
+    display: none;
+  }
+}
 .sheet-contact-row {
   display: flex;
   align-items: center;

@@ -1,6 +1,55 @@
 import { Link } from "react-router-dom";
 import { useUI, RecoEmbed } from "./UIContext.jsx";
 import ContactForm from "./ContactForm.jsx";
+function SocialLinks({ className }) {
+  return (
+    <div className={className}>
+      <a
+        href="https://facebook.com/Primarelservice"
+        target="_blank"
+        rel="noopener"
+        aria-label="Primär El-Service på Facebook"
+        title="Facebook"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            fill="currentColor"
+            d="M14 6h3V2h-3c-2.76 0-5 2.24-5 5v2H7v4h2v9h4v-9h3l1-4h-4V7c0-.55.45-1 1-1z"
+          />
+        </svg>
+      </a>
+      <a
+        href="https://instagram.com/Primarelservice"
+        target="_blank"
+        rel="noopener"
+        aria-label="Primär El-Service på Instagram"
+        title="Instagram"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <rect
+            x="3"
+            y="3"
+            width="18"
+            height="18"
+            rx="5"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+          />
+          <circle
+            cx="12"
+            cy="12"
+            r="4"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+          />
+          <circle cx="17.5" cy="6.5" r="1.25" fill="currentColor" />
+        </svg>
+      </a>
+    </div>
+  );
+}
 export function Header() {
   const {
     menuButton,
@@ -36,7 +85,10 @@ export function Header() {
             </a>
             <span>{"Elservice för hem, företag & BRF i Stockholm"}</span>
           </div>
-          <a href="tel:+46840020108">{"Eljour dygnet runt · 08-400 201 08"}</a>
+          <a className="topbar-phone" href="tel:+46840020108">
+            {"Eljour dygnet runt · 08-400 201 08"}
+          </a>
+          <SocialLinks className="topbar-social" />
         </div>
       </div>
       <header>
@@ -206,6 +258,7 @@ export function Header() {
               {"info@primarelservice.se"}
             </a>
           </div>
+          <SocialLinks className="sheet-social" />
           <nav className="sheet-policies" aria-label="Villkor och integritet">
             <Link to="/dataskyddspolicy/">{"Dataskyddspolicy"}</Link>
             <Link to="/cookie-policy/">{"Cookies"}</Link>
